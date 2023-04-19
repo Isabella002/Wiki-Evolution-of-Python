@@ -39,3 +39,5 @@ Python 3 was released on December 3rd 2008, and the goal with it was to improve 
 
 
 ## Conclusion 
+
+It goes without saying that the transformation of Python has been quite noticeable throughout the years and there are still changes yet to be made. As new versions are curated and new tools are being produced, old versions are faded out or no longer supported. There is always room for optimization and it is important to look back on why and how things were created and brought to life by a specific process. Redundancy is something that is often discovered in the programming industry and therefore the desire for efficiency is strong. 
