@@ -1,5 +1,6 @@
 ## Introduction 
 
+Python is a general-purpose programming language that operates at high level functionality. There are a variety of reasons why any developers would be interested in using Python in their production process. Coming a long way from when it was initially released in the early 90’s and continuously improving over the years, Python includes a multiplicity of features making it one of the most popular programming languages to this day. The dynamic semantics and syntax enforce a more readable experience for developers and users, while providing the opportunity for complex design. The following is a thorough description of all Python versions 1.0 to 3.11 as well as an analysis of the progress that has been made over the years and the potential of Python in the future. 
 
 
 ## Initial Inspiration 
@@ -12,7 +13,7 @@ like map, Lambda, filter and reduce features as well as previous features from t
 inheritance, core data types, exception handling and functions. Python version 1.4 was when Modula-3 style keyword arguments were released as well 
 as support for complex number operations. The following versions of Python 1 were license updates, background changes and other optimizations. 
 Python version 1.6 released the year of 2000, was the last update developed at CNRI and the only version with an open source license that was 
-released by the CNRI. 
+released by the CNRI. Obviously at this point in time, Python was a new programming language and still had tremendous room for improvement so naturally there would be an abundance of new updates and features to come with the following newer versions. 
 
 
 ## Version 2 
