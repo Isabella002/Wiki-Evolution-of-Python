@@ -5,8 +5,12 @@ Python is a general-purpose programming language that operates at high level fun
 
 ## Initial Inspiration 
 
+Python was first released in 1991 by Guido van Rossum, and it was designed to address shortcomings that existed in the other prominent languages of the time. One of its primary objectives was to create more readable, expressive, and intuitive code. Its syntax is simple with few keywords. Along with its whitespace indentation, it is easier to write, read, and maintain compared to the complex syntax of other languages.
+It also needed have more versatility. Therefore, it was designed to support multiple programming paradigms, including procedural, object-oriented, and functional. That flexibility allows developers to choose whichever style is preferred or necessary instead of being forced into particular implementation decisions dictated by the language.
+Another important feature is the built-in data structures, primarily lists, tuples, and dictionaries. They were designed to be efficient and easy to use when working with complex data.
+Python is interpreted rather than compiled, which allows for the rapid development and prototyping of code. This deliberate choice allows users to debug and develop programs more quickly without the need to compile. Ultimately, Python filled a gap left by its competitors. That being a high level, modular, and efficient language that allowed for flexible yet powerful development.
 
-## Version 1
+# Version 1
 
 Released in January of 1994, functional programming was officially up and running. This version included functional programming 
 like map, Lambda, filter and reduce features as well as previous features from the 0.9 Python version. Those features included classes with 
