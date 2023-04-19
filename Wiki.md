@@ -17,6 +17,21 @@ released by the CNRI.
 
 ## Version 2 
 
+In introducing Python 2 which was brought to the technology world in 2000 created by BeOpen with main purpose for making programming simple with the 
+ease for learning the program. Python 2 made code development easier than the earlier versions. Python 2 is an object oriented programming language
+as a high level language as the translation of Python code takes place into machine language, thus, using an intepreter.
+
+Python 2 an open source version helps the DevOps engineer with configuration management tools. The history of Python 2.0 ranges from October 16, 2000
+to July 3, 2010 ending with Python 2.7. The syntax of Python 2 was noted to be difficult to understand along with rules of ordering comparison that are
+very complex. Lisewise, Python version 3 is not backward compatible with Python 2. Also older libraries created for Python 2 is not forward-compatible.
+Python 2 is not forward-compatible. Python 2 is not available after 2020. In summary Python 2 made the code development process much easier than its
+earlier versions in comparison. See below the key different between Python 2 and Python 3 which determined the fate of Python2 ending in 2020.
+19
+
+![Python 2 image 1](https://www.guru99.com/images/1/032219_1004_Python2vsPy1.png)
+
+![Python 2 image 2](https://learntocodewith.me/wp-content/uploads/2014/06/python-2-vs-3-2018.png)
+
 
 ## Version 3 
 
