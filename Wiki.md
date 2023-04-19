@@ -44,7 +44,7 @@ Python 3 was released on December 3rd 2008, and the goal with it was to improve 
 
 # Conclusion 
 
-It goes without saying that the transformation of Python has been quite noticeable throughout the years and there are still changes yet to be made. As new versions are curated and new tools are being produced, old versions are faded out or no longer supported. There is always room for optimization and it is important to look back on why and how things were created and brought to life by a specific process. Redundancy is something that is often discovered in the programming industry and therefore the desire for efficiency is strong. 
+It goes without saying that the transformation of Python has been quite noticeable throughout the years and there are still changes yet to be made. As new versions are curated and new tools are being produced, old versions are faded out or no longer supported. There is always room for optimization and it is important to look back on why and how things were created and brought to life by a specific process. Redundancy is something that is often discovered in the programming industry and therefore the desire for efficiency is strong. It is unlikely that Python will become obsolete anytime soon. It is wildly popular and consistently maintained. Its extensive use in data science and machine learning has only cemented its status as one of the most important programming languages in use today. While it is still young, compared to languages like Fortran, it is safe to say that its robust community will continue its evolution and growth.
 
 Refer to the timeline below for an overview of the Python version history:
 ![Timeline](Timeline%20of%20Python%20Programming.png)
